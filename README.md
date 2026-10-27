@@ -2,7 +2,7 @@
 <h2 align="center">y00us</h2>
 
 <p align="center">
-  all for fun.
+  all for fun
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
 </a>
 </p>
 
----
-
 <p align="center">
-  tryna build some cool shi.
+  tryna build some cool shi
 </p>
