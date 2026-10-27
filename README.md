@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1234281289054687305">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <a href="https://discord.com/users1234281289054687305">
+  <img src="https://cdn.simpleicons.org/discord/5865F2"
+       width="28" alt="Discord">
+</a>
 </p>
 
 ---
