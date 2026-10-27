@@ -1,5 +1,5 @@
 
-<h2 align="center">@y00us everywhere</h2>
+<h2 align="center">@y00us</h2>
 
 <p align="center">
   all for fun
