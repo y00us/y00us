@@ -14,5 +14,5 @@
 ---
 
 <p align="center">
-  building things, learning along the way.
+  tryna build some cool shi.
 </p>
